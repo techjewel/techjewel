@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/techjewel" target="blank"><img src="https://img.shields.io/twitter/follow/techjewel?logo=twitter&style=for-the-badge" alt="techjewel" /></a> </p>
 
-- 🔭 I’m currently working on [WPManageNinja](https://wpmanageninja.com)
+- 🔭 I’m currently working at [WPManageNinja](https://wpmanageninja.com)
 
 - 📝 I regularly write articles on [https://jewel.im](https://jewel.im)
 
